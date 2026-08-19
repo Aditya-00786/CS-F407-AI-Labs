@@ -1,0 +1,6 @@
+mean over 5 solvable random warehouses per size
+7x21: BFS: len 23.6, expanded 64, 0.06 ms, A*: len 23.6, expanded 56, 0.08 ms, Greedy: len 28.0, expanded 33, 0.05 ms, DFS: len 26.8, expanded 32, 0.03 ms
+14x42: BFS: len 50.4, expanded 286, 0.27 ms, A*: len 50.4, expanded 167, 0.25 ms, Greedy: len 53.6, expanded 61, 0.10 ms, DFS: len 66.0, expanded 114, 0.11 ms
+28x84: BFS: len 107.6, expanded 1209, 1.15 ms, A*: len 107.6, expanded 423, 0.64 ms, Greedy: len 115.6, expanded 128, 0.22 ms, DFS: len 223.2, expanded 620, 0.60 ms
+56x168: BFS: len 222.8, expanded 5130, 5.17 ms, A*: len 222.8, expanded 1623, 2.57 ms, Greedy: len 262.0, expanded 364, 0.62 ms, DFS: len 534.4, expanded 1482, 1.45 ms
+112x336: BFS: len 453.2, expanded 20719, 21.87 ms, A*: len 453.2, expanded 5139, 9.15 ms, Greedy: len 510.0, expanded 698, 1.27 ms, DFS: len 2139.6, expanded 7050, 7.30 ms
