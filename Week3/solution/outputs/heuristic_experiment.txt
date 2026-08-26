@@ -1,0 +1,5 @@
+BFS: found 50/50, mean expanded 404.8, suboptimal 0/50, mean extra moves 0.00
+h = 0 (uniform-cost): found 50/50, mean expanded 404.8, suboptimal 0/50, mean extra moves 0.00
+Manhattan: found 50/50, mean expanded 225.6, suboptimal 0/50, mean extra moves 0.00
+Euclidean: found 50/50, mean expanded 284.7, suboptimal 0/50, mean extra moves 0.00
+2 x Manhattan: found 50/50, mean expanded 100.9, suboptimal 17/50, mean extra moves 1.76

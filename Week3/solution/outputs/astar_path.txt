@@ -1,0 +1,13 @@
+A* (Manhattan) on the lab warehouse: 40 moves, 64 states expanded
+
+#################
+#S****#*********#
+#.###*#*#######*#
+#...#*#*******#*#
+###.#*#######*#*#
+#...#*********#*#
+#.###########.#*#
+#.............#G#
+#################
+
+Actions: Right, Right, Right, Right, Down, Down, Down, Down, Right, Right, Right, Right, Right, Right, Right, Right, Up, Up, Left, Left, Left, Left, Left, Left, Up, Up, Right, Right, Right, Right, Right, Right, Right, Right, Down, Down, Down, Down, Down, Down
