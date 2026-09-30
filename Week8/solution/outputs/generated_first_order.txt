@@ -1,0 +1,22 @@
+First-order model, sampling mode, 20 sentences (seed=407)
+
+ 1. the cat ran to the dog ran to the rug   [NEW]
+ 2. the park   [NEW]
+ 3. the cat sat on the mat
+ 4. the dog ran to the mat   [NEW]
+ 5. the dog ran to the rug   [NEW]
+ 6. the dog sat on the dog sat on the mat   [NEW]
+ 7. the cat sat on the mat
+ 8. the mat   [NEW]
+ 9. the cat ran to the dog sat on the cat sat on the rug   [NEW]
+10. the park   [NEW]
+11. the cat sat on the cat sat on the dog sat on the mat   [NEW]
+12. the rug   [NEW]
+13. the rug   [NEW]
+14. the rug   [NEW]
+15. the dog ran to the dog sat on the dog ran to the dog sat on the rug   [NEW]
+16. the rug   [NEW]
+17. the park   [NEW]
+18. the mat   [NEW]
+19. the rug   [NEW]
+20. the mat   [NEW]

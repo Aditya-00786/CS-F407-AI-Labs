@@ -1,0 +1,22 @@
+Second-order model, sampling mode, 20 sentences (seed=407)
+
+ 1. the cat ran to the park
+ 2. the cat sat on the rug
+ 3. the cat sat on the mat
+ 4. the dog ran to the park
+ 5. the dog ran to the park
+ 6. the dog sat on the rug
+ 7. the cat sat on the mat
+ 8. the cat sat on the mat
+ 9. the cat ran to the park
+10. the dog sat on the rug
+11. the cat ran to the park
+12. the dog sat on the mat
+13. the cat sat on the rug
+14. the cat sat on the rug
+15. the dog ran to the park
+16. the cat ran to the park
+17. the dog ran to the park
+18. the cat ran to the park
+19. the cat sat on the mat
+20. the cat sat on the mat
